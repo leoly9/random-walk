@@ -1,5 +1,9 @@
 # Random Walk and Personalized PageRank 
-Project 1 - Random Graph and Random Walks
+
+This repo contains the first project for Large Scale Social and Complex Networks: Design and Algorithms class at UCLA. We first explored characteristics of random networks. Then we explored random walk and the PageRank algorithms.
+
+
+Instructions:
 
 1) Upload the files to Colab.
 2) Make sure that the ipynb file uses R and not Python
